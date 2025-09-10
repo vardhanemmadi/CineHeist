@@ -41,4 +41,4 @@ Check it out 👉 [Live at](https://cineheist.streamlit.app/)
 
 # Contact me:
 [LinkedIn](https://www.linkedin.com/in/vardhanemmadi)
-[Email](vardhanln1@gmail.com)
+[Email](mailto:vardhanln1@gmail.com)
