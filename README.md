@@ -13,7 +13,7 @@
 # How to Run
     1. Clone the repo
         ```bash
-        git clone https://github.com/shivakumarsouta/CineHeist.git
+        git clone https://github.com/vardhanemmadi/CineHeist.git
         cd CineHeist
         ```
 
@@ -40,6 +40,5 @@
 Check it out 👉 [Live at](https://cineheist.streamlit.app/)
 
 # Contact me:
-[LinkedIn](https://www.linkedin.com/in/shivakumarsouta)
-[Email](shivakumarsouta18@gmail.com)
-[Portfolio](https://shivakumarsouta-portfolio.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/vardhanemmadi)
+[Email](vardhanln1@gmail.com)
